@@ -5,5 +5,5 @@ This study was conducted with collaborators at University of Reading and Manches
 
 Please contact Dr Heeseo Rain Kwon (heeseo.kwon@liverpool.ac.uk) if you wish to use and cite this pilot model.
 Two working papers are being developed:
-Kwon et al. (forthcoming) Conceptualising the Recursive Relationships Among Urban Development, Physical Activity, and Health Using Agent-Based Modelling.
-Kwon et al. (forthcoming) Unravelling the Interlinkages of 20-minute Neighbourhood, Travel Behaviour, Health and Inequality: Applying Agent-Based Modelling and Work from Home Scenarios.
+- Kwon et al. (forthcoming) Conceptualising the Recursive Relationships Among Urban Development, Physical Activity, and Health Using Agent-Based Modelling.
+- Kwon et al. (forthcoming) Unravelling the Interlinkages of 20-minute Neighbourhood, Travel Behaviour, Health and Inequality: Applying Agent-Based Modelling and Work from Home Scenarios.
